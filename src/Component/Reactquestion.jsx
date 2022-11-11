@@ -6,7 +6,7 @@ const Reactquestion = () => {
     console.log(question);
     return (
         <div>
-
+            <h1 className='text-5xl p-3'>React Quiz</h1>
             <p> 1 ....What is react JS used for?</p>
             <p>The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript</p>
             <p> 2 .....What is React and why use it?</p>
